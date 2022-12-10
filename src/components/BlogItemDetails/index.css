@@ -1,0 +1,24 @@
+/* Write your CSS code here */
+.blog-item-details {
+  display: flex;
+  width: 90%;
+  flex-direction: column;
+  justify-content: center;
+}
+.title {
+  text-align: center;
+  font-size: 23px;
+}
+.img {
+  display: flex;
+  justify-content: center;
+}
+.img-item2 {
+  height: 500px;
+  width: 900px;
+  margin-top: 20px;
+  text-align: center;
+}
+.content {
+  padding: 10px;
+}
